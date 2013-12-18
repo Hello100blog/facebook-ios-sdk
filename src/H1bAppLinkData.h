@@ -1,5 +1,5 @@
 /*
- * Copyright 2010-present Facebook.
+ * Copyright 2013-present Hello100blog.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,9 +17,9 @@
 #import <Foundation/Foundation.h>
 
 /*!
- @abstract This class contains information that represents an App Link from Facebook.
+ @abstract This class contains information that represents an App Link from Hello100blog.
  */
-@interface FBAppLinkData : NSObject
+@interface H1bAppLinkData : NSObject
 
 /*! @abstract The target */
 @property (readonly) NSURL *targetURL;
